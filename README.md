@@ -6,5 +6,5 @@
 - 📫 How to reach me: mahirajalisha@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love animals
-- ![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+- ![Visitor Count](https://profile-counter.glitch.me/Mahirobot/count.svg)
 
