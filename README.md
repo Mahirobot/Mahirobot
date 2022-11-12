@@ -6,6 +6,7 @@
 - 📫 How to reach me: mahirajalisha.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love animals
-- !Mahira's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahirobot&show_icons=true&theme=transparent)
-- Number of visitors: ![Visitor Count](https://profile-counter.glitch.me/Mahirobot/count.svg)
+- ![Mahira's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahirobot&show_icons=true&theme=transparent)
+- Number of visitors:
+  ![Visitor Count](https://profile-counter.glitch.me/Mahirobot/count.svg)
 
