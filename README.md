@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning more about NLP
 - 👯 I’m looking to collaborate on a project/paper in the field of Computer Vision
 - 📫 How to reach me:  
-  - [Website](mahirajalisha.com)  
+  - [Website](https://mahirobot.github.io/)  
   - [LinkedIn](https://bd.linkedin.com/in/mahira-jalisha-158002181)
 - :electron: Python / Pytorch / Data Science / ML / DL / CV / NLP  
 - 😄 Pronouns: She/Her
