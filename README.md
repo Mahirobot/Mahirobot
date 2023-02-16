@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Mahira!
 ### I love learning and am enthusiastic about working on projects. Visit my [website](https://mahirobot.github.io/) to find out more about me!
 - 🔭 I’m currently working on publishing my final year thesis
-- 🌱 I’m currently learning more about NLP
+- 🌱 I’m currently learning more about API development.
 - 👯 I’m looking to collaborate on a project/paper in the field of Computer Vision
 - 📫 How to reach me:  
   - [Website](https://mahirobot.github.io/)  
