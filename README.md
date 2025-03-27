@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Mahira!
-### I love learning and am enthusiastic about working on projects. Visit my [website](https://mahirobot.github.io/) to find out more about me!
+### I love learning and am enthusiastic about working on AI related projects. Visit my [website](https://mahirobot.github.io/) to find out more about me!
 - 🔭 I’m currently doing my MS in Computer Science from Uppsala University.
 - 🌱 Working and learning development @PadelMatesInternational.
 - 👯 Looking to collaborate on a project/paper in the field of Computer Vision
