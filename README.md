@@ -5,7 +5,8 @@
 - 👯 Looking to collaborate on a project/paper in the field of Computer Vision
 - 📫 How to reach me:  
   - [Website](https://mahirobot.github.io/)  
-  - [LinkedIn](https://linkedin.com/in/mahira-jalisha-158002181)
+  - [LinkedIn](https://linkedin.com/in/mahira-jalisha)
+  - [Latest projects](https://share.streamlit.io/user/mahirobot)
 - :electron: Python / Pytorch / Data Science / ML / DL / CV / NLP  
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am an introvert who loves animals. 
