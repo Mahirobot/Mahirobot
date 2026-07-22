@@ -18,26 +18,30 @@ I have an ardent interest in building intelligent, creative solutions that bridg
 - 💼 **[LinkedIn](https://linkedin.com/in/mahira-jalisha)**
 - 📊 **[Latest Streamlit Projects](https://share.streamlit.io/user/mahirobot)**
 
+<br>
 
-### 🗺️ The Path to Applied AI
+---
 
-**📍 Multimodal AI & Healthcare** 
-- **Independent Researcher** working with Akademiska Sjukhuset and Uppsala University
-- Bridging Computer Vision and NLP to investigate how ECG signals impact patient lifecycle data.
+> ### 🗺️ The Path to Applied AI
+> 
+> **📍 Multimodal AI & Healthcare** 
+> - **Independent Researcher** working with Akademiska Sjukhuset and Uppsala University
+> - Bridging Computer Vision and NLP to investigate how ECG signals impact patient lifecycle data.
+> 
+> **🇸🇪 End-to-End AI Engineering**
+> - **MSc Computer Science** @ *Uppsala University* | **Intern** @ *Arkus AI*
+> - Built **JobCraft AI** (RAG/LLMs) and mastered data engineering. Goal: ensuring models actually survive in production.
+> 
+> **🚀 Scaling Real Products**
+> - **Founding Engineer** @ *PadelMates International*
+> - Architected the core FastAPI backend from scratch. Still driving development here after 3 years.
+> 
+> **💡 The Pivot: The "Aha!" Moment**
+> - **Data Scientist & ML Engineer**
+> - *The realization:* Most ML models die on the bench without rock-solid software engineering. I pivoted to master backend development so I could actually ship what I build. 
+> 
+> **🌱 The Foundation: Algorithms to Research**
+> - **BSc** @ *North South University*
+> - ICPC Regional Qualifier ➔ Built custom dataset & benchmark for Bangla handwriting ➔ Published 3D segmentation paper.
 
-**🇸🇪 End-to-End AI Engineering**
-- **MSc Computer Science** @ *Uppsala University* | **Intern** @ *Arkus AI*
-- Built **JobCraft AI** (RAG/LLMs) and mastered data engineering. Goal: ensuring models actually survive in production.
-
-**🚀 Scaling Real Products**
-- **Founding Engineer** @ *PadelMates International*
-- Architected the core FastAPI backend from scratch. Still driving development here after 3 years.
-
-**💡 The Pivot: The "Aha!" Moment**
-- **Data Scientist & ML Engineer**
-- *The realization:* Most ML models die on the bench without rock-solid software engineering. I pivoted to master backend development so I could actually ship what I build. 
-
-**🌱 The Foundation: Algorithms to Research**
-- **BSc** @ *North South University*
-- ICPC Regional Qualifier ➔ Built custom dataset & benchmark for Bangla handwriting ➔ Published 3D segmentation paper.
- 
+---
